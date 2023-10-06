@@ -217,7 +217,7 @@ first div in the grid  and place it in the grid. */
 
   /* Step 9: Write the selector/rule property to style the nav element */
 
-  nav{position:absolute;
+  nav{position:right;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 0;
